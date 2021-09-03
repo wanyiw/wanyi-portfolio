@@ -1,11 +1,15 @@
-# wanyi-portfolio
+# Wanyi's Data Portfolio
 This is my data visualisation portfolio. 
 
 link to live website https://wanyiw.github.io/wanyi-portfolio/
 
 ## About me
 
-I am a mom of 2 kids, a police officer by profession, holding a BA History from the London School of Economics. None of these facts suggest that I should have a Github account much less build any sort of webpage. 
+I am a mom of 2 kids, a police officer by profession, holding a BA History from the London School of Economics. None of these facts suggest that I should have a Github account, much less be building a webpage portfolio of my data visualisations. But such is life. 
+
+I'm a second-year MSPPM student from Singapore. Fall 2021 will be my final semester before heading to Singapore to work in the Government Data Office. 
+
+![my kids](/kids.jpeg)
 
 ## What I hope to learn 
 
@@ -16,3 +20,5 @@ More seriously, I'll likely be taking up a job in Singapore's Smart Nation and D
 ## Portfolio
 
 Akan datang (that means coming soon in the Malay language, which is one of the four official languages in Singapore!).
+
+### Final Project
