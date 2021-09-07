@@ -21,4 +21,8 @@ More seriously, I'll likely be taking up a job in Singapore's Smart Nation and D
 
 Akan datang (that means coming soon in the Malay language, which is one of the four official languages in Singapore!).
 
+### Fluorish Dataviz In-Class
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205591"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Final Project
