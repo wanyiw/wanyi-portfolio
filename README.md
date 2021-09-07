@@ -7,9 +7,7 @@ link to live website https://wanyiw.github.io/wanyi-portfolio/
 
 I am a mom of 2 kids, a police officer by profession, holding a BA History from the London School of Economics. None of these facts suggest that I should have a Github account, much less be building a webpage portfolio of my data visualisations. But such is life. 
 
-I'm a second-year MSPPM student from Singapore. Fall 2021 will be my final semester before heading to Singapore to work in the Government Data Office. 
-
-![my kids](/kids.jpeg)
+I'm a second-year MSPPM student from Singapore. Fall 2021 will be my final semester before heading to Singapore to work in the Government Data Office. blrb
 
 ## What I hope to learn 
 
