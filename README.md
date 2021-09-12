@@ -25,4 +25,8 @@ Akan datang (that means coming soon in the Malay language, which is one of the f
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205591"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Government Debt Dataviz
+
+[govt debt](/govtdebt.md)
+
 ### Final Project
