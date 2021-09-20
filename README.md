@@ -29,4 +29,8 @@ Akan datang (that means coming soon in the Malay language, which is one of the f
 
 [OECD Government Debt Data Visualisation](/govtdebt.md)
 
+### Critique and Redesign Dataviz Assignment
+
+[Critique and Redesign Dataviz Assignment](/education.md)
+
 ### Final Project
