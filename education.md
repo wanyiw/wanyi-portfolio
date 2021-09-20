@@ -14,7 +14,7 @@ most powerful tool to addressing future inequalities. I chanced upon this articl
 to be quite wordy since they often provide the exact wording of the survey questions that they run, and I was interested in figuring out how datavizes can be utilised to show survey 
 findings. 
 
-![Pew Dataviz](/images/pew1.png)
+![Pew Dataviz](/pew1.png)
 
 ### The Wireframe 
 
@@ -30,7 +30,7 @@ that were relevant to the story.
 
 With these insights in mind, I produced the following sketch of my proposed redesign:
 
-![Wireframe of Pew Dataviz](/images/pew2.jpg)
+![Wireframe of Pew Dataviz](/pew2.jpg)
 
 ### User Feedback
 
@@ -60,6 +60,6 @@ In response to the feedback, I implemented the following changes:
 
 The final redesign is as follows:
 
-![Redesign of Pew Dataviz](/images/pew3.png)
+![Redesign of Pew Dataviz](/pew3.png)
 
 [Return to Main Page](/README.md)
