@@ -10,9 +10,9 @@ Let's see how this went!
 Here is the original dataviz that I chose. It's a dataviz from a 
 [Pew Research Centre article](https://www.pewresearch.org/fact-tank/2020/04/15/lower-income-parents-most-concerned-about-their-children-falling-behind-amid-covid-19-school-closures/) 
 on educational inequalities that have arisen from the COVID pandemic. This particular topic is of interest to me, since i firmly believe that levelling education outcomes is the 
-most powerful tool to addressing future inequalities. I chanced upon this article and was struck by the amount of text within the datviz. It occurred to me that Pew datavizes tend
-to be quite wordy since they often provide the exact wording of the survey questions that they run, and I was interested in figuring out how datavizes can be utilised to show survey 
-findings. 
+most powerful tool to addressing future inequalities. I chanced upon this article and was struck by the amount of text within the datviz. It occurred to me that Pew datavizes tendto be quite wordy since they often provide the exact wording of the survey questions that they run, and I was interested in figuring out how datavizes can be utilised to show survey findings. 
+
+This particular dataviz shows survey responses from respondents who are bucketed into upper, middle and lower income families. Their responses to 4 questions on their child's schooling experience during COVID and their feeling towards said schooling experience were captured in the dataviz. Rather than use the data to make a point, this dataviz instead very plainly shows the spread of the response options for each of the 4 questions, broken down by income-level. While this may be understandable from the perspective of wanting to show survey responses, this article had a narrative (of educational inequity) which was not supported by the accompanying dataviz. So how can we make it better?
 
 ![Pew Dataviz](/pew1.png)
 
