@@ -1,2 +1,0 @@
-## Educational Inequalities and COVID
-
