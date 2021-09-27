@@ -8,7 +8,7 @@ For my final dataaviz project, I intend to outline the inequalities of gender re
 
 The picture below depicts my first draft of the expected user-journey that the audience will undergo. For this project, my audience will be an educated crowd who may or may not have prior knowledge of this issue. Through my presentation, I hope to create awareness of this issue and convince my audience that this is an issue that affects them personally. It is my hope that they leave the presentation remembering 1 or 2 statistics presented through the data visualisations, and bring this issue up in conversations with their friends. 
 
-![First Draft of User Journey](/women1.jpeg)
+![First Draft of User Journey](/women2.jpg)
 
 In terms of major elements of the story and anticipated data visualisations, I imagine there to be the following:
 
@@ -17,7 +17,7 @@ In terms of major elements of the story and anticipated data visualisations, I i
 * Dataviz on the underrepresentation of women leaders (political, business, STEM). This is to highlight the impact of gender underrepresentation in the media.
 * Dataviz on the 50:50 initiative by the BBC. This is to show that change is possible, and that this is an issue that can be corrected.
 
-![Sketch of Introductory Dataviz](/women2.jpeg)
+![Sketch of Introductory Dataviz](/women1.jpg)
 
 ### Data
 
