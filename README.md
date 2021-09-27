@@ -34,3 +34,5 @@ Akan datang (that means coming soon in the Malay language, which is one of the f
 [Critique and Redesign Dataviz Assignment](/education.md)
 
 ### Final Project
+
+[Final Dataviz Project](/women.md)
