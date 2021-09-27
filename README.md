@@ -1,7 +1,7 @@
 # Wanyi's Data Portfolio
 This is my data visualisation portfolio. 
 
-link to live website https://wanyiw.github.io/wanyi-portfolio/
+[link to live website][https://wanyiw.github.io/wanyi-portfolio/]
 
 ## About me
 
