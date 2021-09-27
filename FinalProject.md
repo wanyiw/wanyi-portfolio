@@ -34,3 +34,5 @@ For my dataviz project, I intend to use the following databases or reports. Note
 ### Method and Medium
 
 I intend to use Shorthand for my presentation. Datavizes will be created through Tableau and/or Datawrapper. I might also use Balsamiq for wire-framing. 
+
+[Return to Main Page](/README.md)
