@@ -17,15 +17,16 @@ In terms of major elements of the story and anticipated data visualisations, I i
 
 ### Data
 
-A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first.
+For my dataviz project, I intend to use the following databases or reports. Note this is an initial collation and may change over time.
 
-1. Global Media Monitoring Project: https://whomakesthenews.org/gmmp-2020-final-reports/ They track the gender representation in the news. On reporting and presenting the news, or featuered as news content or whether women are featured as subject matter experts. 
-2. Journal "The effect of media sexism on women’s political ambition: evidence from a worldwide study" showing the correlation between media sexism and women's political ambition
-3. https://www.weforum.org/reports/ab6795a1-960c-42b2-b3d5-587eccda6023/in-full/gggr2-benchmarking-gender-gaps-findings-from-the-global-gender-gap-index-2021#1-3-performance-by-subindex
-4. f
-5. f
-6. f
-7. 
+1. [Global Media Monitoring Project][https://whomakesthenews.org/gmmp-2020-final-reports/] : They track the gender representation in the news, whether it's news presentation like reporting or newscasters, or how women are featured within the news. The data here will go into the introductory dataviz.
+2. [Center for Women in TV and Film] [https://womenintvfilm.sdsu.edu/research/] : This database collates statistics on women in tv and film, including female representation as TV or movie leads and behind-the-scenes roles (e.g. writers, directors etc.). This database will be used in the introductory dataviz.
+3. [Women and Hollywood][https://womenandhollywood.com/resources/statistics/] : This database collates statistics on women in tv and film, including female representation as TV or movie leads and behind-the-scenes roles (e.g. writers, directors etc.). This database will be used in the introductory dataviz.
+4. [Global Gender Gap Report 2021, World Economic Forum][https://www.weforum.org/reports/ab6795a1-960c-42b2-b3d5-587eccda6023/in-full/gggr2-benchmarking-gender-gaps-findings-from-the-global-gender-gap-index-2021#1-3-performance-by-subindex] : This database is an index on how countries fare on sub-indices related to the gender gap. This includes economic opportunities, educational attainment etc. The data will be used on the dataviz on gender pay gap and educational attainment. 
+5. [US Census Data][https://data.census.gov/cedsci/] : I intend to use US Census data on wages, differentiated by gender and occupation. This data will be featured on the dataviz on gender pay gap. 
+6. Journal "The effect of media sexism on women’s political ambition: evidence from a worldwide study"][https://www.tandfonline.com/doi/full/10.1080/14680777.2018.1468797] : This is an empirical global study showing the correlation between media sexism and women's political ambition. Data from this article will be featured in the dataviz of impact of gender underrepresentation in the media.
+7. [BBC 50:50 Initiative] [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.bbc.com%2F5050%2Fdocuments%2F50-50-impact-report-2021.pdf&clen=7972062&chunk=true] : This report captures statistics of the BBC 50:50 initiative which strives for equal gender representation on BBC shows. This will go into the dataviz showing change is possible.
 
 ### Method and Medium
+
+I intend to use Shorthand for my presentation. Datavizes will be created through Tableau and/or Datawrapper. I might also use Balsamiq for wire-framing. 
