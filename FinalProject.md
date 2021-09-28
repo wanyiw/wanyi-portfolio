@@ -53,5 +53,7 @@ c. your interview script;
 d. the findings from your interviews; and 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
+<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/7192/6982560853_3e540cfd2e_b.jpg" alt="Image"><a href="https://www.flickr.com/photos/53130103@N05/6982560853">"Image"</a><span> by <a href="https://www.flickr.com/photos/53130103@N05">pennstatenews</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=73e1c21f-3cf4-4c41-8b7a-ccc92a0da628" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
+
 
 [Return to Main Page](/README.md)
