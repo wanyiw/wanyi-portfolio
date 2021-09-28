@@ -1,4 +1,4 @@
-## Final Dataviz Project
+## Creating the Final Dataviz Project: My Journey
 
 [Return to Main Page](/README.md)
 
@@ -39,8 +39,6 @@ For my dataviz project, I intend to use the following databases or reports. Note
 
 I intend to use Shorthand for my presentation. Datavizes will be created through Tableau and/or Datawrapper. I might also use Balsamiq for wire-framing. 
 
-[Return to Main Page](/README.md)
-
 ### Part II
 
 #### Wireframes and storyboards
@@ -54,3 +52,6 @@ b. your approach to identifying representative individuals to interview;
 c. your interview script; 
 d. the findings from your interviews; and 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+
+[Return to Main Page](/README.md)
