@@ -1,10 +1,14 @@
 ## Final Dataviz Project
 
-### Summary of Project
+[Return to Main Page](/README.md)
+
+### Part I
+
+#### The Project: Inequalities of Gender Representation in the Media
 
 For my final dataaviz project, I intend to outline the inequalities of gender representation in media. Whether it's popular media (like TV shows and movies that we watch) or traditional news media (like newspapers and news channels), women are underrepresented. There is a disjoint between the 50-50 gender distribution reality that we live in, and the media that we consume. There are fewer female leads on TV shows and movies, where there are female characters, they are often based on stereotypes conceived by male writers. On the news, women are often featured because of their personal stories (e.g. crime victim, human interest story) rather than as news-makers or subject matter experts. This misrepresentation is a factor in perpetuating female steoreotypes (not good at math, better at nurturing-type occupations or home-making), which in turn imposes economic costs on society.
 
-### Project Structure
+#### Project Outline
 
 The picture below depicts my first draft of the expected user-journey that the audience will undergo. For this project, my audience will be an educated crowd who may or may not have prior knowledge of this issue. Through my presentation, I hope to create awareness of this issue and convince my audience that this is an issue that affects them personally. It is my hope that they leave the presentation remembering 1 or 2 statistics presented through the data visualisations, and bring this issue up in conversations with their friends. 
 
@@ -19,7 +23,7 @@ In terms of major elements of the story and anticipated data visualisations, I i
 
 ![Sketch of Introductory Dataviz](/women1.jpg)
 
-### Data
+#### Data
 
 For my dataviz project, I intend to use the following databases or reports. Note this is an initial collation and may change over time.
 
@@ -31,8 +35,22 @@ For my dataviz project, I intend to use the following databases or reports. Note
 6. Journal "The effect of media sexism on women’s political ambition: evidence from a worldwide study"][https://www.tandfonline.com/doi/full/10.1080/14680777.2018.1468797] : This is an empirical global study showing the correlation between media sexism and women's political ambition. Data from this article will be featured in the dataviz of impact of gender underrepresentation in the media.
 7. [BBC 50:50 Initiative] [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fwww.bbc.com%2F5050%2Fdocuments%2F50-50-impact-report-2021.pdf&clen=7972062&chunk=true] : This report captures statistics of the BBC 50:50 initiative which strives for equal gender representation on BBC shows. This will go into the dataviz showing change is possible.
 
-### Method and Medium
+#### Method and Medium
 
 I intend to use Shorthand for my presentation. Datavizes will be created through Tableau and/or Datawrapper. I might also use Balsamiq for wire-framing. 
 
 [Return to Main Page](/README.md)
+
+### Part II
+
+#### Wireframes and storyboards
+
+#### User Research and Interviews
+
+Reach out to at least 3 persons and address the following:
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
