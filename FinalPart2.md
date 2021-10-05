@@ -1,6 +1,6 @@
 # Creating the Final Dataviz Project: My Journey (Part 2: Creating a Storyboard and Conducting User Research)
 
-[Back to Part 1](/FinalProject.md)                             [Return to Main Page](/README.md)
+[Back to Part 1](/FinalProject.md)  or [Return to Main Page](/README.md)
 
 > In putting together this story, I went from low-fidelity wireframes to high-fidelity charts. Similarly, my storyboard also started growing in fidelity. Here is my journey and thought process.
 
@@ -14,8 +14,8 @@ Through the class discussion and more data-gathering, I sketched out a few more 
 - One thing I want to keep consistent in my story is the use of colours for male and female. To that end, I found an online resource that helped me to figure out what colours I might assign to the 2 genders. [How to choose different gender colours][https://blog.datawrapper.de/gendercolor/]
 - There is a lot that I want to say in my story, there's just too much data I want to present. I will need to prioritise along the way, and can use my user research protocol to help me figure out which charts are more helpful or resonate more strongly with my audience.
 
-![Women in Politics](/women3.jpg=100x100)
-![Women in Politics2](/women5.jpg=100x100)
+![Women in Politics](/women3.jpg)
+![Women in Politics2](/women5.jpg)
 ![Women Earn Less](/women4.jpg)
 
 ### 2. Piecing the Story
@@ -34,9 +34,7 @@ Based on these story elements, I very roghly sketched out how my storyboard migh
 
 ### 3. Growing in Fidelity - Using Shorthand
 
-Based on the above process, I use Shorthand to put together my storyboard. This is useful because it allows me to "switch" the sequence of the story around. 
-
-I also use Flourish and Infogram to create my data visualisations, which are 9 in total. 
+Based on the above process, I use Shorthand to put together my storyboard. This is useful because it allows me to "switch" the sequence of the story around. I also used Flourish and Infogram to create my data visualisations, which are 9 in total. 
 
 [You Can't Be What You Can't See - Shorthand Storyboard][https://preview.shorthand.com/s5k8uQtU68L9oD2s]
 
@@ -81,7 +79,7 @@ Based on the feedback, I am considering making the following changes:
 5. **$12 trillion chart**  :  Users had useful feedback on the components that make up this treemap. There is inconsistency in the components used, e.g. alleviating world poverty is something you can spend money on but top 10 net worth is not something you spend money on. I will be refining this treemap to only include components that you can spend money on. This will help with the main point of this chart which is what you can get with $12 trillion. 
 
 
-[Continue to Part 3](/FinalPart3.md)        [Return to Main Page](/README.md)
+[Continue to Part 3](/FinalPart3.md)    or     [Return to Main Page](/README.md)
 
 
 
