@@ -77,18 +77,37 @@ Based on the above process, I use Shorthand to put together my storyboard. This 
 
 I also use Flourish and Infogram to create my data visualisations, which are 9 in total. 
 
+[You Can't Be What You Can't See - Shorthand Storyboard][https://preview.shorthand.com/s5k8uQtU68L9oD2s]
+
 ### User Research and Interviews
 
 #### 1. Target Audience and Identifying Sample
 
 #### 2. Interview Script and User Research Protocol
 
+![User Research Protool](/women7.jpg)
+
 #### 3. Findings
+
+The table below captures the specific questions posed to 2 persons and their respective feedback.
+
+| Questions | Person 1 | Person 2|
+|---|---|---|
+|1. Can you tell me what you think this is? | It is a bar chart depicting inequities in education due to COVID19 for low income children. | This tells me about the reactions of families of various income levels during COVID. |
+|2. Can you describe to me what this is telling you? | It is telling me that low income children are disproportionately affected by COVD19 because they have lower access to education. | It tells me that lower income families are less satisfied with how shcool is doing during COVID. |
+|3. Is there anything you find surprising or confusing? | The income categories in the middle throw me off a little bit. Maybe making them bold or putting them to the left might make it less confusing. | I am confused by the red colour because I feel like I'm supposed to be alarmed by the red, like what percentage would be green? |
+| 4. Who do you think is the intended audience for this? | I think the intended audience is either educators or policy makers. | I think it's meant for parents of children in school during COVID. |
+|5. What would you change or do differently? | I would consider shifting the income categories to the left and also use different fonts to make a distinction between the title and the headings for % concenerend and % children receiving little/no education. | I would change the red colour of the bar. |
+
 
 #### 4. Potential Changes
 
+Based on the feedback, I gained the following insights with regard to my wireframe redesign:
 
-![User Research Protool](/women7.jpg)
+1. Red may be too strong of a colour to use, as there are other connotations associated with it such as danger. 
+2. People are used to reading from left to right, so having the income levels in the middle was confusing. 
+3. There is still quite a bit of text in my chart, and reader may have trouble distinguishing between the different bits of text. 
+
 
 Reach out to at least 3 persons and address the following:
 
