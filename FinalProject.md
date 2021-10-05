@@ -1,8 +1,6 @@
-# Creating the Final Dataviz Project: My Journey
+# Creating the Final Dataviz Project: My Journey (Part 1)
 
 [Return to Main Page](/README.md)
-
-## Part I
 
 ### The Project: Inequalities of Gender Representation in the Media
 
