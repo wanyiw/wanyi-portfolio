@@ -2,4 +2,4 @@
 
 This is a streamgraph created during an in-class exercise using Rawgraphs.io
 
-[
+![Streamgraph](/tandemstream.png)
