@@ -83,43 +83,35 @@ I also use Flourish and Infogram to create my data visualisations, which are 9 i
 
 #### 1. Target Audience and Identifying Sample
 
+The target audience for my story "You Can't be What You Can't See" would be the everyday person because I think spreading awareness of this issue of women being misrepresented in the media is something everyone should know. I would say that I have a slight preference for men being the target audience, just because I think that women are more likely to already be aware of this issue compared to men. 
+
+In light of the target audience, I recruited 3 individuals for my user research - 2 men and 1 woman. They are college-educated individuals who are interested in public policy. 
+
 #### 2. Interview Script and User Research Protocol
 
-![User Research Protool](/women7.jpg)
+My interview script is as follows:
+
+Hello. I would like some feedback on a presentation that I am working on. I have a storyboard that I would like you to take a look at. I would appreciate if you could take 10 minutes to go through the storyboard, see what resonates with you, and what you might find confusing. Thank you. 
+
+The User Research Protocol is adapted from the one in class, with key questions that I added in view of some of the queries that arose from my wireframing/storyboarding journey. 
+
+![User Research Protocol](/women7.jpg)
 
 #### 3. Findings
 
 The table below captures the specific questions posed to 2 persons and their respective feedback.
 
-| Questions | Person 1 | Person 2|
-|---|---|---|
-|1. Can you tell me what you think this is? | It is a bar chart depicting inequities in education due to COVID19 for low income children. | This tells me about the reactions of families of various income levels during COVID. |
-|2. Can you describe to me what this is telling you? | It is telling me that low income children are disproportionately affected by COVD19 because they have lower access to education. | It tells me that lower income families are less satisfied with how shcool is doing during COVID. |
-|3. Is there anything you find surprising or confusing? | The income categories in the middle throw me off a little bit. Maybe making them bold or putting them to the left might make it less confusing. | I am confused by the red colour because I feel like I'm supposed to be alarmed by the red, like what percentage would be green? |
-| 4. Who do you think is the intended audience for this? | I think the intended audience is either educators or policy makers. | I think it's meant for parents of children in school during COVID. |
-|5. What would you change or do differently? | I would consider shifting the income categories to the left and also use different fonts to make a distinction between the title and the headings for % concenerend and % children receiving little/no education. | I would change the red colour of the bar. |
-
+![User Feedback](/women8.jpg)
 
 #### 4. Potential Changes
 
-Based on the feedback, I gained the following insights with regard to my wireframe redesign:
+Based on the feedback, I am likely to consider making the following changes:
 
-1. Red may be too strong of a colour to use, as there are other connotations associated with it such as danger. 
-2. People are used to reading from left to right, so having the income levels in the middle was confusing. 
-3. There is still quite a bit of text in my chart, and reader may have trouble distinguishing between the different bits of text. 
+1. The first thing I'd absolutely change is the flow of the story. I was already of the opinion that the flow is problematic, but the user research resoundingly confirmed my opinion. One user suggested starting with the underrepresentation of women in politics which is well-known issue before linking it to the underrepresentation of women in the media - which is the alternative flow that I had considered before. I think this flow might make more sense. If I have time, I might change the sequence and get user feedback again. 
+
+2. The graphic that users seem to be most confused by is the chart on Olympic athletes. The confusion was due to a couple of reasons
 
 
-Reach out to at least 3 persons and address the following:
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-
-When finished, you should upload digital copies of these elements to your Github repository.  Include your written user research protocol and findings.  Make sure not to including any personally identifiable information (don't list names or identifiable information about those you interviewed - describe them generally).   Include any helpful direct quotes for each question you asked, and make sure to note similarities and differences between the observations of your interviewees.  
-
-When reviewing this part of your final assignment, I should be able to clearly follow along in your progress.  You should include enough detail so that it's easy to see how you moved from the initial wireframes / storyboards through your user research feedback.
 
 
 [Return to Main Page](/README.md)
