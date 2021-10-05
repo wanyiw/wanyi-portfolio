@@ -14,7 +14,7 @@ Through the class discussion and more data-gathering, I sketched out a few more 
 - One thing I want to keep consistent in my story is the use of colours for male and female. To that end, I found an online resource that helped me to figure out what colours I might assign to the 2 genders. [How to choose different gender colours][https://blog.datawrapper.de/gendercolor/]
 - There is a lot that I want to say in my story, there's just too much data I want to present. I will need to prioritise along the way, and can use my user research protocol to help me figure out which charts are more helpful or resonate more strongly with my audience.
 
-![Women in Politics](/women3.jpg =250x250)
+![Women in Politics](/women3.jpg=100x100)
 ![Women in Politics2](/women5.jpg)
 ![Women Earn Less](/women4.jpg)
 
