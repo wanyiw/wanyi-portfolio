@@ -39,7 +39,9 @@ For my dataviz project, I intend to use the following databases or reports. Note
 
 I intend to use Shorthand for my presentation. Datavizes will be created through Tableau and/or Datawrapper. I might also use Balsamiq for wire-framing. 
 
-### Part II
+### Part II: Creating a Storyboard and Conducting User Research
+
+In putting together this story, I went from low-fidelity wireframes to high-fidelity charts. Similarly, my storyboard also started growing in fidelity. Here is my journey and thought process.
 
 #### Wireframes and storyboards
 
@@ -52,6 +54,12 @@ b. your approach to identifying representative individuals to interview;
 c. your interview script; 
 d. the findings from your interviews; and 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+When finished, you should upload digital copies of these elements to your Github repository.  Include your written user research protocol and findings.  Make sure not to including any personally identifiable information (don't list names or identifiable information about those you interviewed - describe them generally).   Include any helpful direct quotes for each question you asked, and make sure to note similarities and differences between the observations of your interviewees.  
+
+When reviewing this part of your final assignment, I should be able to clearly follow along in your progress.  You should include enough detail so that it's easy to see how you moved from the initial wireframes / storyboards through your user research feedback.
+
+To complete Part I, you should submit a link to the page on your Github repository that includes the relevant information noted above.   Make sure to embed any sketches, images, visualizations or other elements correctly before submitting.  
 
 <p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/7192/6982560853_3e540cfd2e_b.jpg" alt="Image"><a href="https://www.flickr.com/photos/53130103@N05/6982560853">"Image"</a><span> by <a href="https://www.flickr.com/photos/53130103@N05">pennstatenews</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=73e1c21f-3cf4-4c41-8b7a-ccc92a0da628" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
 
