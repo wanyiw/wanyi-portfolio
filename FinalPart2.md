@@ -11,7 +11,7 @@
 Through the class discussion and more data-gathering, I sketched out a few more charts that might go into the storyboard. The purpose behind these very low-fidelity sketches were to see what kind of charts I might use in my storyboard, it also helped me figure out what are the story elements that might go into my story. The insights I got from these sketches were as follows:
 
 - I want a variety of chart types to keep my story interesting. However, I want to limit myself to about 3 - 4 types so the audience does not have to "relearn" new chart types. 
-- One thing I want to keep consistent in my story is the use of colours for male and female. To that end, I found an online resource that helped me to figure out what colours I might assign to the 2 genders. [How to choose different gender colours][https://blog.datawrapper.de/gendercolor/]
+- One thing I want to keep consistent in my story is the use of colours for male and female. To that end, I found an online resource that helped me to figure out what colours I might assign to the 2 genders. [How to choose different gender colours](https://blog.datawrapper.de/gendercolor/)
 - There is a lot that I want to say in my story, there's just too much data I want to present. I will need to prioritise along the way, and can use my user research protocol to help me figure out which charts are more helpful or resonate more strongly with my audience.
 
 ![Women in Politics](/women3.jpg)
@@ -36,7 +36,7 @@ Based on these story elements, I very roghly sketched out how my storyboard migh
 
 Based on the above process, I use Shorthand to put together my storyboard. This is useful because it allows me to "switch" the sequence of the story around. I also used Flourish and Infogram to create my data visualisations, which are 9 in total. 
 
-[You Can't Be What You Can't See - Shorthand Storyboard][https://preview.shorthand.com/s5k8uQtU68L9oD2s]
+[You Can't Be What You Can't See - Shorthand Storyboard](https://preview.shorthand.com/s5k8uQtU68L9oD2s)
 
 <script src="https://carnegiemellon.shorthandstories.com/you-cant-be-what-you-cant-see/embed.js"></script>
 
