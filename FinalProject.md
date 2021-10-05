@@ -45,7 +45,50 @@ In putting together this story, I went from low-fidelity wireframes to high-fide
 
 #### Wireframes and storyboards
 
+##### 1. Insights from Sketching More Charts
+
+Through the class discussion and more data-gathering, I sketched out a few more charts that might go into the storyboard. The purpose behind these very low-fidelity sketches were to see what kind of charts I might use in my storyboard, it also helped me figure out what are the story elements that might go into my story. The insights I got from these sketches were as follows:
+
+- I want a variety of chart types to keep my story interesting. However, I want to limit myself to about 3 - 4 types so the audience does not have to "relearn" new chart types. 
+- One thing I want to keep consistent in my story is the use of colours for male and female. To that end, I found an online resource that helped me to figure out what colours I might assign to the 2 genders. [How to choose different gender colours][https://blog.datawrapper.de/gendercolor/]
+- There is a lot that I want to say in my story, there's just too much data I want to present. I will need to prioritise along the way, and can use my user research protocol to help me figure out which charts are more helpful or resonate more strongly with my audience.
+
+![Women in Politics](/women3.jpg)
+![Women in Politics2](/women5.jpg)
+![Women Earn Less](/women4.jpg)
+
+##### 2. Piecing the Story
+
+As I sketched out the different charts, I started grouping them into story elements (that is pieces of my story). The story elements that emerged were as follows:
+
+- How women are under-represented in the media: charts on how often women are seen in the media, how they are portrayed in film or tv. 
+- The real-life impact of media sexism: chart on how women are under-represented in key industries like politics, science and business. 
+- Why we should care about closing the gap: chart on the benefits of closing the gender gap. 
+- Successful initiatives of closing the gap like the BBC 50:50 initiative or the Olympics achieving gender parity in the 2020 Olympics. 
+- Call to Action: I curently have 2 in mind - getting people more aware about media sexism by watching the movie Miss Representation and getting the audience to think about how they can achieve 50:50 gender parity in their own lives. I want to test out how these 2 "calls to action" play out in my user research protocol. 
+
+Based on these story elements, I very roghly sketched out how my storyboard might look like. Putting this together, I start to think about the sequencing of this different pieces. I consider if the impact of media sexism should come first. Again this is something I want to look into more closely as I conduct user research. 
+
+![Low-Fidelity Storyboard](/women6.jpg)
+
+##### 3. Growing in Fidelity - Using Shorthand
+
+Based on the above process, I use Shorthand to put together my storyboard. This is useful because it allows me to "switch" the sequence of the story around. 
+
+I also use Flourish and Infogram to create my data visualisations, which are 9 in total. 
+
 #### User Research and Interviews
+
+##### 1. Target Audience and Identifying Sample
+
+##### 2. Interview Script and User Research Protocol
+
+##### 3. Findings
+
+##### 4. Potential Changes
+
+
+![User Research Protool](/women7.jpg)
 
 Reach out to at least 3 persons and address the following:
 
@@ -59,19 +102,5 @@ When finished, you should upload digital copies of these elements to your Github
 
 When reviewing this part of your final assignment, I should be able to clearly follow along in your progress.  You should include enough detail so that it's easy to see how you moved from the initial wireframes / storyboards through your user research feedback.
 
-To complete Part I, you should submit a link to the page on your Github repository that includes the relevant information noted above.   Make sure to embed any sketches, images, visualizations or other elements correctly before submitting.  
-
-<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/7192/6982560853_3e540cfd2e_b.jpg" alt="Image"><a href="https://www.flickr.com/photos/53130103@N05/6982560853">"Image"</a><span> by <a href="https://www.flickr.com/photos/53130103@N05">pennstatenews</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC 2.0</a><a href="https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=73e1c21f-3cf4-4c41-8b7a-ccc92a0da628" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /></a></p>
-
-viz on education and earnings:
-
-https://www.statista.com/statistics/184272/educational-attainment-of-college-diploma-or-higher-by-gender/
-https://www.statista.com/statistics/184266/educational-attainment-of-high-school-diploma-or-higher-by-gender/
-
-viz on political rep:
-
-https://www.forbes.com/sites/erinspencer1/2021/02/22/women-leading-countries-thats-apparently-so-next-century/?sh=7b7395c62f15
-https://www.unwomen.org/en/what-we-do/leadership-and-political-participation/facts-and-figures#_edn1
-https://www.cfr.org/article/womens-power-index
 
 [Return to Main Page](/README.md)
