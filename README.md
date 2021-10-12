@@ -43,4 +43,4 @@ A key element of data visualisation is being able to critique and redesign visua
 
 A lot of effort has been dedicated to creating my final project - "You Can't Be What You Can't See". This documents my entire journey through this project, from ideation, wireframing, user feedback to the final product put together on Shorthand. There are 3 parts to this journey, so click on the link below to read Part 1. 
 
-[Final Dataviz Project - Part 1](/FinalProject.md)
+[You Can't Be What You Can't See - Part 1](/FinalProject.md)
