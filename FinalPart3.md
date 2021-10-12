@@ -25,24 +25,21 @@ Another key insight was clarifying the call to action. In some sense, the call t
 The design decisions I made in putting together the final presentation was as follows:
 
 1. Consistent font and text size: I made sure that the font throughout my presentation was consistent, especially the text that appears in Shorthand and the text that apears in graphics created on other tools like Flourish or Infogram. As the only font available in Flourish is Roboto, that became my default font. I also went back to my graphics to make sure that the labels were of the same size. This focus on consistentcy in font and text size helped improve the readability of the presentation.
+2. Choosing a consistent color scheme for the text in my data story and the graphics created. I used colorbrewer2 to choose 2 colors to represent the 2 genders, and I decided to use the color for female (a coral) throughout my data story to highlight positive points. Here I was trying to create a mental correlation between the chosen color for females and the positive points or calls to action within the data story.
+3. I really struggled to find an appropriate picture for the title slide. None of the pictures on Creative Commons or Unsplash were suitable. In the end, I created my own graphic to use for the title slide, again using the the chosen gender colors for consistency and emphasis right at the start of the data story. 
+4. The elements of the story were broken up with a suitable picture at the start of the part. This was to help with the flow of the story. 
 
 ## Using Shorthand
 
-### 1. Insights from Sketching More Charts
+It was my first time using Shorthand so there was a bit of a learning curve in terms of how to best build my data story. One thing that I did very frequently was preview the data story just to make sure alignment and rendering were in line with what I had in mind. There were also limitations in Shorthand that made it difficult to work with it. E.g. the scrollmation doesn't allow for custom HTML, only pictures. I therefore had to find workaround, by using spacers. 
 
+Having seen my classmate's successful data sstory using Wix, I'm intrigued to try it out and see if it's a better platform. 
 
-Part III: Final data story (due as part of this assignment)
+## The Final Product
 
-A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+Here is the final, completed data story - You Can't Be What You Can't See.
 
-Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions. (Part III)
-Include any other information that helps round out your data story. (Part III)
-
-
-
-
-
+https://carnegiemellon.shorthandstories.com/cant-be-what-you-cant-see/index.html
 
 
 [Return to Main Page](/README.md)
