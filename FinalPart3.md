@@ -1,4 +1,5 @@
-# Creating the Final Dataviz Project: My Journey (Part 3: Creating the Final Product)
+# Creating the Final Dataviz Project: My Journey 
+# Part 3: Creating the Final Product
 
 [Return to Part 2](/FinalPart3.md)    or     [Return to Main Page](/README.md)
 
@@ -37,9 +38,8 @@ Having seen my classmate's successful data sstory using Wix, I'm intrigued to tr
 
 ## The Final Product
 
-Here is the final, completed data story - You Can't Be What You Can't See.
+Here is the final, completed data story - [You Can't Be What You Can't See](https://carnegiemellon.shorthandstories.com/cant-be-what-you-cant-see/index.html)
 
-https://carnegiemellon.shorthandstories.com/cant-be-what-you-cant-see/index.html
-
+<script src="https://carnegiemellon.shorthandstories.com/cant-be-what-you-cant-see/embed.js"></script>
 
 [Return to Main Page](/README.md)
