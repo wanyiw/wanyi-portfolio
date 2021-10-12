@@ -19,20 +19,28 @@ More seriously, I'll likely be taking up a job in Singapore's Smart Nation and D
 
 ## Portfolio
 
-Akan datang (that means coming soon in the Malay language, which is one of the four official languages in Singapore!).
+Here you will see my portfolio of data visualisations. Click on each link to see the visualisation and follow my learning journey in creating each one of them. 
 
 ### Fluorish Dataviz In-Class
+
+This is a data visualisation using Flourish, done during an in-class exercise. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205591"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Government Debt Dataviz
 
+This is a data visualisation of government debt using OECD data. A variety of tools were used in creating these visualisations. 
+
 [OECD Government Debt Data Visualisation](/govtdebt.md)
 
 ### Critique and Redesign Dataviz Assignment
+
+A key element of data visualisation is being able to critique and redesign visualisations. Here is my attempt at critiquing and redesigning a Pew Survey dataviz.
 
 [Critique and Redesign Dataviz Assignment](/education.md)
 
 ### Final Project
 
-[Final Dataviz Project](/FinalProject.md)
+A lot of effort has been dedicated to creating my final project - "You Can't Be What You Can't See". This documents my entire journey through this project, from ideation, wireframing, user feedback to the final product put together on Shorthand. There are 3 parts to this journey, so click on the link below to read Part 1. 
+
+[Final Dataviz Project - Part 1](/FinalProject.md)
