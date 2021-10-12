@@ -1,4 +1,5 @@
-# Creating the Final Dataviz Project: My Journey (Part 2: Creating a Storyboard and Conducting User Research)
+# Creating the Final Dataviz Project: My Journey 
+# Part 2: Creating a Storyboard and Conducting User Research
 
 [Back to Part 1](/FinalProject.md)  or [Return to Main Page](/README.md)
 
